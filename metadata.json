@@ -1,0 +1,8 @@
+{
+  "name": "Ojek Songgon",
+  "description": "Layanan Ojek Motor, Kurir Kilat, Belanja Pasar & Wisata Alam Songgon Banyuwangi",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
